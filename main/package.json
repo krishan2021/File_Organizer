@@ -1,0 +1,15 @@
+{
+  "name": "main",
+  "version": "1.0.0",
+  "description": "file_Organizer",
+  "main": "main.js",
+  "bin": {
+    "organizeit": "main.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "organizeit": "node main.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
